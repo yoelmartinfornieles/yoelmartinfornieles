@@ -15,8 +15,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoelmartinfornieles&show_icons=true&locale=en&layout=compact" alt="yoelmartinfornieles" /></p>
 
-</br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&show_icons=true&locale=en" alt="yoelmartinfornieles" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&" alt="yoelmartinfornieles" /></p>
