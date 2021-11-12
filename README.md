@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yoel Martin</h1>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F45B5B&size=40&lines=%3E+Hello+World!)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+<h1 align="center">Hello there! I'm Yoel Martin</h1>
 <h3 align="center">An intrepid fullstack developer from the Basque Country</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelmartinfornieles&label=Profile%20views&color=0e75b6&style=flat" alt="yoelmartinfornieles" /> </p>
@@ -20,3 +27,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&show_icons=true&locale=en" alt="yoelmartinfornieles" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&" alt="yoelmartinfornieles" /></p>
+  
+<!-- STATS -->
+<br>
+<h3 align="center">My GitHub Stats</h3>
+<p align="center">
+  <img  height="150"
+  src="https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&theme=react&show_icons=true&include_all_commits=true"
+  />
+  <img
+  height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelmartinfornieles&theme=react&layout=compact"
+  />
+</p><br>
+  
+  <div align="center">
+  
+  <img width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+  
+  ![Snake animation](https://github.com/lauraAlabau/lauraAlabau/blob/output/github-contribution-grid-snake.svg)
