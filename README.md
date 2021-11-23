@@ -57,7 +57,9 @@
 <br>
 
 <h3 align="center">My Stats</h3>
-<img align="center" alt='CodeWars' src='https://www.codewars.com/users/fan_cassidy/badges/large' />
+<div align="center">	
+<img alt='CodeWars' src='https://www.codewars.com/users/fan_cassidy/badges/large' />
+</div>
 <div align="center">	
 <p align="center">
   <img  height="150"
