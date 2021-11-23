@@ -1,4 +1,6 @@
+<div align="center">
 ![Snake animation](https://github.com/lauraAlabau/lauraAlabau/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <div align="center">
 
@@ -57,11 +59,10 @@
   
 <!-- STATS -->
 <br>
-
-<img alt='CodeWars' src='https://www.codewars.com/users/yoelmartin/badges/large' />
-<div align="center">	
   
-<h3 align="center">My GitHub Stats</h3>
+<h3 align="center">My Stats</h3>
+<img alt='CodeWars' src='https://www.codewars.com/users/fan_cassidy/badges/large' />
+<div align="center">	
 <p align="center">
   <img  height="150"
   src="https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&theme=react&show_icons=true&include_all_commits=true"
