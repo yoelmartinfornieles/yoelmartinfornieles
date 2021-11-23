@@ -52,8 +52,15 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
   
+<img alt='Ironhack' src='https://i.imgur.com/qq7wMW4.png' style="width:100px" />
+</div>
+  
 <!-- STATS -->
 <br>
+
+<img alt='CodeWars' src='https://www.codewars.com/users/yoelmartin/badges/large' />
+<div align="center">	
+  
 <h3 align="center">My GitHub Stats</h3>
 <p align="center">
   <img  height="150"
