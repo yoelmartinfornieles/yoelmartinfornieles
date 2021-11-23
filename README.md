@@ -1,8 +1,4 @@
 <div align="center">
-![Snake animation](https://github.com/lauraAlabau/lauraAlabau/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<div align="center">
 
 <h1 align="center">Hello there! I'm Yoel Martin</h1>
 <h3 align="center">An intrepid fullstack developer from the Basque Country</h3>
@@ -59,9 +55,9 @@
   
 <!-- STATS -->
 <br>
-  
+
 <h3 align="center">My Stats</h3>
-<img alt='CodeWars' src='https://www.codewars.com/users/fan_cassidy/badges/large' />
+<img align="center" alt='CodeWars' src='https://www.codewars.com/users/fan_cassidy/badges/large' />
 <div align="center">	
 <p align="center">
   <img  height="150"
