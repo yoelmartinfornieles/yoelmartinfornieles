@@ -3,8 +3,6 @@
 <h1 align="center">Hello there! I'm Yoel Martin</h1>
 <h3 align="center">An intrepid fullstack developer from the Basque Country</h3>
   
-![Snake animation](https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelmartinfornieles&label=Profile%20views&color=0e75b6&style=flat" alt="yoelmartinfornieles" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles" alt="yoelmartinfornieles" /></a> </p>
