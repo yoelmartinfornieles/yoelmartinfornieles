@@ -1,5 +1,5 @@
 <div align="center">
-![image](https://user-images.githubusercontent.com/65562487/143292542-7ca5c0a9-4474-48d0-938f-e8dd14635ec0.png)
+<img src="https://user-images.githubusercontent.com/65562487/143292542-7ca5c0a9-4474-48d0-938f-e8dd14635ec0.png"></img>
 <h3 align="center">An intrepid fullstack developer from the Basque Country</h3>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelmartinfornieles&label=Profile%20views&color=0e75b6&style=flat" alt="yoelmartinfornieles" /> </p>
