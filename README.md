@@ -59,7 +59,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
   
-<img alt='Ironhack' src='https://i.imgur.com/qq7wMW4.png' style="width:100px" />
+<img alt='Ironhack' src='https://i.imgur.com/qq7wMW4.png' width="40" height="40" />
 </div>
   
 <!-- STATS -->
