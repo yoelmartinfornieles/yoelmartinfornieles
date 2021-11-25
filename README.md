@@ -4,7 +4,7 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelmartinfornieles&label=Profile%20views&color=0e75b6&style=flat" alt="yoelmartinfornieles" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles" alt="yoelmartinfornieles" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/yoelmartinfornieles/github-profile-trophy)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
