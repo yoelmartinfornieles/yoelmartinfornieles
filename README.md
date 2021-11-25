@@ -75,7 +75,7 @@
   height="150"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelmartinfornieles&theme=react&layout=compact"
   />
-  <p>&nbsp;<img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&theme=react&layout=compact" alt="yoelmartinfornieles" /></p>
+<img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&theme=react&layout=compact" alt="yoelmartinfornieles" /></p>
 </p>
   <br>
 
