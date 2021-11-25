@@ -4,8 +4,6 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelmartinfornieles&label=Profile%20views&color=0e75b6&style=flat" alt="yoelmartinfornieles" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=4)](https://github.com/yoelmartinfornieles/github-profile-trophy)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yoel-martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoel-martin" height="30" width="40" /></a>
@@ -79,6 +77,8 @@
   <p>&nbsp;<img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&" alt="yoelmartinfornieles" /></p>
 </p>
   <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=4)](https://github.com/yoelmartinfornieles/github-profile-trophy)
   
 <div align="center">
   <img width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
