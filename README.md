@@ -1,4 +1,6 @@
-![snake gif](https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+![snake gif](https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/65562487/143292542-7ca5c0a9-4474-48d0-938f-e8dd14635ec0.png"></img>
