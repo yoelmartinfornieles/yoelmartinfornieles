@@ -65,6 +65,7 @@
 <div align="center">	
 <img alt='CodeWars' src='https://www.codewars.com/users/fan_cassidy/badges/large' />
 </div>
+<br>
 <div align="center">	
 <p align="center">
   <img  height="150"
