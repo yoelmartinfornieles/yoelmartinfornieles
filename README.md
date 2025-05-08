@@ -38,25 +38,25 @@
 <table>
   <tr>
     <!-- Card 1 -->
-    <td align="center" width="100%">
+    <td align="center" width="33%">
       <a href="https://pachangaTournament" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
         <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
              alt="Pachanga Tournament"
-             width="200" height="auto" />
+             width="100%" height="auto" />
         <h4 style="margin:8px 0 4px;">Pachanga Tournament</h4>
         <p style="margin:0; font-size:0.9rem; color:#555;">
-          El Pachanga Tournament es un torneo internacional de Magic: The Gathering celebrado en las Islas Canarias que combina tres días de competición en múltiples formatos con actividades sociales (piscina, cócteles, firmas de ilustradores) y streaming para la comunidad global
+          Pachanga Tournament is an international Magic: The Gathering event held in the Canary Islands that spans three days of multi-format competition alongside social activities such as poolside cocktails, professional illustrator signings, and live streaming for a global audience
         </p>
       </a>
     </td>
-    <td align="center" width="100%">
+    <td align="center" width="33%">
       <a href="https://yoelmartinfornieles.github.io/prj-dbzArkanoid/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
         <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
              alt="DBZ Arkanoid"
-             width="200" height="auto" />
+             width="100%" height="auto" />
         <h4 style="margin:8px 0 4px;">DBZ Arkanoid</h4>
         <p style="margin:0; font-size:0.9rem; color:#555;">
-          Clon de Arkanoid ambientado en Dragon Ball Z, con power-ups
+          An Arkanoid clone set in the Dragon Ball Z universe, featuring power-ups
         </p>
       </a>
     </td>
