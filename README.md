@@ -17,7 +17,7 @@
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
-[![Tech Stack]([https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,postgres,python,django,html,css,sass,git,github](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,python,anaconda,graphql,mongodb,dynamodb,mysql,postgres,react,nextjs,babel,html,css,bootstrap,materialui,jest,aws,bash,postman,vscode,git,github,npm,apple,linux,kali&perline=6))](https://github.com/yoelmartinfornieles)
+[![Tech Stack]([[https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,postgres,python,django,html,css,sass,git,github](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,python,anaconda,graphql,mongodb,dynamodb,mysql,postgres,react,nextjs,babel,html,css,bootstrap,materialui,jest,aws,bash,postman,vscode,git,github,npm,apple,linux,kali&perline=6)])](https://github.com/yoelmartinfornieles)
 
 ---
 
