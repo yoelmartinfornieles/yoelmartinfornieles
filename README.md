@@ -35,60 +35,107 @@
 
 <summary><h2>🚀 Featured Projects</h2></summary>
 
-## 🚀 Featured Projects
+<div style="width:100%; font-family: sans-serif;">
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 16px 0;">
+  <!-- Card container -->
+  <div style="white-space: normal; text-align: center;">
 
-  <!-- Card 1 -->
-  <a href="https://tu-proyecto-1.com" target="_blank" rel="noopener noreferrer"
-     style="display: inline-block; vertical-align: top; width: 280px; margin-right: 16px;
-            background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            text-decoration: none; color: inherit; overflow: hidden;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
-         alt="Pachanga Tournament"
-         style="width:100%; height:160px; object-fit: cover;" />
-    <div style="padding: 12px;">
-      <h3 style="margin: 0 0 8px; font-size: 1.1rem;">Pachanga Tournament</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #555;">
-        Organiza torneos de pádel con emparejamientos automáticos y estadísticas en tiempo real.
-      </p>
-    </div>
-  </a>
+    <!-- Card 1 -->
+    <a href="https://tu-proyecto-1.com" target="_blank" rel="noopener noreferrer"
+       style="
+         display: inline-block;
+         vertical-align: top;
+         width: 30%;
+         max-width: 280px;
+         margin: 1%;
+         box-sizing: border-box;
+         background: #fff;
+         border-radius: 8px;
+         box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+         text-decoration: none;
+         color: inherit;
+         overflow: hidden;
+       ">
+      <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
+           alt="Pachanga Tournament"
+           style="
+             width: 100%;
+             height: auto;
+             display: block;
+           " />
+      <div style="padding: 12px; text-align: left;">
+        <h3 style="margin: 0 0 8px; font-size: 1.1rem;">Pachanga Tournament</h3>
+        <p style="margin: 0; font-size: 0.9rem; color: #555;">
+          Organiza torneos de pádel con emparejamientos automáticos y estadísticas en tiempo real.
+        </p>
+      </div>
+    </a>
 
-  <!-- Card 2 -->
-  <a href="https://tu-proyecto-2.com" target="_blank" rel="noopener noreferrer"
-     style="display: inline-block; vertical-align: top; width: 280px; margin-right: 16px;
-            background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            text-decoration: none; color: inherit; overflow: hidden;">
-    <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
-         alt="DBZ Arkanoid"
-         style="width:100%; height:160px; object-fit: cover;" />
-    <div style="padding: 12px;">
-      <h3 style="margin: 0 0 8px; font-size: 1.1rem;">DBZ Arkanoid</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #555;">
-        Clon de Arkanoid ambientado en Dragon Ball Z, con power-ups y bosses.
-      </p>
-    </div>
-  </a>
+    <!-- Card 2 -->
+    <a href="https://tu-proyecto-2.com" target="_blank" rel="noopener noreferrer"
+       style="
+         display: inline-block;
+         vertical-align: top;
+         width: 30%;
+         max-width: 280px;
+         margin: 1%;
+         box-sizing: border-box;
+         background: #fff;
+         border-radius: 8px;
+         box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+         text-decoration: none;
+         color: inherit;
+         overflow: hidden;
+       ">
+      <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
+           alt="DBZ Arkanoid"
+           style="
+             width: 100%;
+             height: auto;
+             display: block;
+           " />
+      <div style="padding: 12px; text-align: left;">
+        <h3 style="margin: 0 0 8px; font-size: 1.1rem;">DBZ Arkanoid</h3>
+        <p style="margin: 0; font-size: 0.9rem; color: #555;">
+          Clon de Arkanoid ambientado en Dragon Ball Z, con power-ups y bosses únicos.
+        </p>
+      </div>
+    </a>
 
-  <!-- Card 3 -->
-  <a href="https://tu-proyecto-3.com" target="_blank" rel="noopener noreferrer"
-     style="display: inline-block; vertical-align: top; width: 280px; margin-right: 16px;
-            background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            text-decoration: none; color: inherit; overflow: hidden;">
-    <img src="https://via.placeholder.com/600x400.png?text=Proyecto+3"
-         alt="Proyecto 3"
-         style="width:100%; height:160px; object-fit: cover;" />
-    <div style="padding: 12px;">
-      <h3 style="margin: 0 0 8px; font-size: 1.1rem;">Proyecto 3</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #555;">
-        Breve descripción destacando tecnologías y objetivos.
-      </p>
-    </div>
-  </a>
+    <!-- Card 3 -->
+    <a href="https://tu-proyecto-3.com" target="_blank" rel="noopener noreferrer"
+       style="
+         display: inline-block;
+         vertical-align: top;
+         width: 30%;
+         max-width: 280px;
+         margin: 1%;
+         box-sizing: border-box;
+         background: #fff;
+         border-radius: 8px;
+         box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+         text-decoration: none;
+         color: inherit;
+         overflow: hidden;
+       ">
+      <img src="https://via.placeholder.com/600x400.png?text=Proyecto+3"
+           alt="Proyecto 3"
+           style="
+             width: 100%;
+             height: auto;
+             display: block;
+           " />
+      <div style="padding: 12px; text-align: left;">
+        <h3 style="margin: 0 0 8px; font-size: 1.1rem;">Proyecto 3</h3>
+        <p style="margin: 0; font-size: 0.9rem; color: #555;">
+          Breve descripción destacando tecnologías y objetivos.
+        </p>
+      </div>
+    </a>
 
-  <!-- Más cards aquí -->
+  </div>
 </div>
+
 
 ---
 </details> 
