@@ -22,12 +22,6 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 GitHub Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/yoelmartinfornieles/yoelmartinfornieles/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <!-- FEATURED PROJECTS -->
 <details> 
 
@@ -104,6 +98,12 @@
 ## 📫 Let’s Connect!
 - LinkedIn: [yoel-martin](https://www.linkedin.com/in/yoel-martin/)  
 - Email: yoelmartinfornieles@gmail.com  
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/yoelmartinfornieles/yoelmartinfornieles/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
