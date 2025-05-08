@@ -21,26 +21,6 @@
 [![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,python,anaconda,graphql,mongodb,dynamodb,mysql,postgres,react,nextjs,babel,html,css,bootstrap,materialui,jest,aws,bash,postman,vscode,git,github,npm,apple,linux,kali&perline=15)](https://github.com/yoelmartinfornieles)
 
 ---
-<details> 
-<!-- GITHUB STATS -->
-
-<summary>< <h2>📊 GitHub Stats</h2></summary>
-<p align="center">
-  <img src=""https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&theme=react&show_icons=true&include_all_commits=true"" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelmartinfornieles&theme=react&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&theme=react&layout=compact" alt="Yoel Martin Fornieles" />
-</p>
-
----
-</details>
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=4)](https://github.com/yoelmartinfornieles/github-profile-trophy)
-</p>
-
----
 
 <!-- CONTRIBUTION SNAKE -->
 ## 🐍 GitHub Contribution Snake
@@ -85,6 +65,29 @@ Microservice for PDF indexing using Pinecone.
 | [Repo](https://github.com/yoelmartinfornieles/pdf-indexer) |
 
 ---
+
+<details> 
+<!-- GITHUB STATS -->
+
+<summary><h2>📊 GitHub Stats</h2></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&theme=react&show_icons=true&include_all_commits=true" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelmartinfornieles&theme=react&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&theme=react&layout=compact" alt="Yoel Martin Fornieles" />
+</p>
+
+---
+</details>
+
+<!-- TROPHIES -->
+<summary><h2>🏆 GitHub Trophies</h2></summary>
+
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=4)](https://github.com/yoelmartinfornieles/github-profile-trophy)
+</p>
+
+---
+</details>
 
 <!-- CONTACT -->
 ## 📫 Let’s Connect!
