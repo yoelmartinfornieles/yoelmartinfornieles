@@ -78,9 +78,15 @@
 
 <summary><h2>📊 GitHub Stats</h2></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&theme=react&show_icons=true&include_all_commits=true" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelmartinfornieles&theme=react&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&theme=react&layout=compact" alt="Yoel Martin Fornieles" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&theme=react&show_icons=true&include_all_commits=true" alt="GitHub Stats" />  
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelmartinfornieles&theme=react&layout=compact" alt="Top Languages" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoelmartinfornieles&theme=react&layout=compact" alt="Yoel Martin Fornieles" />
+  </div>
 </p>
 
 ---
@@ -91,7 +97,7 @@
 
 <summary><h2>🏆 GitHub Trophies</h2></summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=4)](https://github.com/yoelmartinfornieles/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=6)](https://github.com/yoelmartinfornieles/github-profile-trophy)
 
 ---
 </details>
