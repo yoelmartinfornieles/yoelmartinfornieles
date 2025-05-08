@@ -33,36 +33,27 @@
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-| Project | Description | Link |
-|:---|:---|:---|
-|  
-  <a href="https://www.pachangatournament.com/" target="_blank">  
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw" alt="PachangaTournament" width="200"/>  
-  </a>  
-| **Pachanga Tournament**  
-A full-featured tournament management platform for sports events.  
-| [Visit Site](https://www.pachangatournament.com/) |
-|  
-  <a href="https://lnkd.in/dSxqudkV" target="_blank">  
-    <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk" alt="LinkedIn Project" width="200"/>  
-  </a>  
-| **DBZ Arkanoid**  
-Detailed case study or slides hosted on LinkedIn.  
-| [View on LinkedIn](https://lnkd.in/dSxqudkV) |
-|  
-  <a href="https://github.com/yoelmartinfornieles/pagos-modular" target="_blank">  
-    <img src="https://raw.githubusercontent.com/yoelmartinfornieles/pagos-modular/main/docs/logo.png" alt="ModularPayments" width="200"/>  
-  </a>  
-| **Modular Payments**  
-A modular payment gateway built with NestJS.  
-| [Repo](https://github.com/yoelmartinfornieles/pagos-modular) |
-|  
-  <a href="https://github.com/yoelmartinfornieles/pdf-indexer" target="_blank">  
-    <img src="https://raw.githubusercontent.com/yoelmartinfornieles/pdf-indexer/main/docs/logo.png" alt="PDFIndexer" width="200"/>  
-  </a>  
-| **PDF Indexer**  
-Microservice for PDF indexing using Pinecone.  
-| [Repo](https://github.com/yoelmartinfornieles/pdf-indexer) |
+<div style="display: flex; gap: 1rem; overflow-x: auto; padding: 1rem 0;">
+
+  <!-- Card 1 -->
+  <div style="flex: 0 0 300px; background: #1e1e1e; border-radius: 8px; padding: 1rem; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw" alt="Pachanga Tournament" style="width:100%; border-radius:4px;" />
+    <h4 style="margin:0.5rem 0 0.25rem; color:#fff;">Pachanga Tournament</h4>
+    <p style="margin:0; color:#bbb; font-size:0.9rem;">
+      Una mini descripción de tu proyecto A, qué resuelve o tecnologías clave.
+    </p>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="flex: 0 0 300px; background: #1e1e1e; border-radius: 8px; padding: 1rem; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk" alt="DBZ Arkanoid" style="width:100%; border-radius:4px;" />
+    <h4 style="margin:0.5rem 0 0.25rem; color:#fff;">DBZ Arkanoid</h4>
+    <p style="margin:0; color:#bbb; font-size:0.9rem;">
+      Una mini descripción de tu proyecto B, qué resuelve o tecnologías clave.
+    </p>
+  </div>
+
+</div>
 
 ---
 
