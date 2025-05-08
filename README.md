@@ -109,4 +109,4 @@
 <p align="center">Thank you for visiting my profile. Let’s build something amazing together! 🚀</p>
 
 
-<img src="https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/main/footer.webp"/> 
+<img src="https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/main/footer.jpg"/> 
