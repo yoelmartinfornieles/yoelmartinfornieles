@@ -37,24 +37,28 @@
 
 <table>
   <tr>
-    <!-- Card 1 -->
-    <td align="center" width="33%" style="height: 200px; overflow: hidden;">
+    <!-- Tarjeta 1 -->
+    <td align="center" width="33%" style="height: 200px;">
       <a href="https://pachangaTournament" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
-             alt="Pachanga Tournament"
-             style="width: 100%; height: 100%; object-fit: cover;" />
+        <div style="width: 100%; height: 100%; overflow: hidden;">
+          <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
+               alt="Pachanga Tournament"
+               style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
         <h4 style="margin:8px 0 4px;">Pachanga Tournament</h4>
         <p style="margin:0; font-size:0.9rem; color:#555;">
           Pachanga Tournament is an international Magic: The Gathering event held in the Canary Islands
         </p>
       </a>
     </td>
-    <!-- Card 2 -->
-    <td align="center" width="33%" style="height: 200px; overflow: hidden;">
+    <!-- Tarjeta 2 -->
+    <td align="center" width="33%" style="height: 200px;">
       <a href="https://yoelmartinfornieles.github.io/prj-dbzArkanoid/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
-        <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
-             alt="DBZ Arkanoid"
-             style="width: 100%; height: 100%; object-fit: cover;" />
+        <div style="width: 100%; height: 100%; overflow: hidden;">
+          <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
+               alt="DBZ Arkanoid"
+               style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
         <h4 style="margin:8px 0 4px;">DBZ Arkanoid</h4>
         <p style="margin:0; font-size:0.9rem; color:#555;">
           An Arkanoid clone set in the Dragon Ball Z universe, featuring power-ups
@@ -63,6 +67,7 @@
     </td>
   </tr>
 </table>
+
 ---
 </details> 
 
