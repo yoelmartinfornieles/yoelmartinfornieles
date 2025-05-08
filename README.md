@@ -50,7 +50,7 @@
     <div style="padding: 12px;">
       <h3 style="margin: 0 0 8px; font-size: 1.1rem;">Pachanga Tournament</h3>
       <p style="margin: 0; font-size: 0.9rem; color: #555;">
-        Organiza torneos de pádel con emparejamientos automáticos, rankings y estadísticas en tiempo real.
+        Organiza torneos de pádel con emparejamientos automáticos y estadísticas en tiempo real.
       </p>
     </div>
   </a>
@@ -66,7 +66,7 @@
     <div style="padding: 12px;">
       <h3 style="margin: 0 0 8px; font-size: 1.1rem;">DBZ Arkanoid</h3>
       <p style="margin: 0; font-size: 0.9rem; color: #555;">
-        Un divertido clon de Arkanoid ambientado en Dragon Ball Z, con power-ups y bosses únicos.
+        Clon de Arkanoid ambientado en Dragon Ball Z, con power-ups y bosses.
       </p>
     </div>
   </a>
@@ -82,14 +82,13 @@
     <div style="padding: 12px;">
       <h3 style="margin: 0 0 8px; font-size: 1.1rem;">Proyecto 3</h3>
       <p style="margin: 0; font-size: 0.9rem; color: #555;">
-        Breve descripción de tu tercer proyecto, destacando tecnologías y objetivos principales.
+        Breve descripción destacando tecnologías y objetivos.
       </p>
     </div>
   </a>
 
-  <!-- Añade más cards aquí -->
+  <!-- Más cards aquí -->
 </div>
-
 
 ---
 </details> 
