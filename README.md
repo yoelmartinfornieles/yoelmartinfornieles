@@ -66,8 +66,8 @@ Microservice for PDF indexing using Pinecone.
 
 ---
 
-<details> 
 <!-- GITHUB STATS -->
+<details> 
 
 <summary><h2>📊 GitHub Stats</h2></summary>
 <p align="center">
@@ -80,11 +80,11 @@ Microservice for PDF indexing using Pinecone.
 </details>
 
 <!-- TROPHIES -->
+<details> 
+
 <summary><h2>🏆 GitHub Trophies</h2></summary>
 
-<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=4)](https://github.com/yoelmartinfornieles/github-profile-trophy)
-</p>
 
 ---
 </details>
