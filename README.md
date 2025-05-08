@@ -1,5 +1,6 @@
 <!-- HEADER -->
 <p align="center">
+  <img src="https://media.giphy.com/media/LLHkw7Un8VYPM/giphy.gif" alt="Welcome" width="200"/>
   <h1>Hi there, I’m Yoel Martín Fornieles! 👋</h1>
   <p>Full-Stack Developer | Passionate about Node.js, TypeScript & NestJS</p>
 </p>
@@ -10,14 +11,14 @@
 ## 🔭 About Me
 - 🌍 Based in the Basque Country, Spain  
 - 💼 Building modular software architectures  
-- 🎯 Currently creating microservices with NestJS, AWS and Serverless   
+- 🎯 Currently migrating payment gateways to NestJS  
 - 🚀 Always exploring new technologies and sharing knowledge
 
 ---
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
-[![Tech Stack]([[https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,postgres,python,django,html,css,sass,git,github](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,python,anaconda,graphql,mongodb,dynamodb,mysql,postgres,react,nextjs,babel,html,css,bootstrap,materialui,jest,aws,bash,postman,vscode,git,github,npm,apple,linux,kali&perline=6)])](https://github.com/yoelmartinfornieles)
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,python,anaconda,graphql,mongodb,dynamodb,mysql,postgres,react,nextjs,babel,html,css,bootstrap,materialui,jest,aws,bash,postman,vscode,git,github,npm,apple,linux,kali&perline=6)](https://github.com/yoelmartinfornieles)
 
 ---
 
@@ -91,5 +92,3 @@ Microservice for PDF indexing using Pinecone.
 ---
 
 <p align="center">Thank you for visiting my profile. Let’s build something amazing together! 🚀</p>
-
-  
