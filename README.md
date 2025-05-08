@@ -9,7 +9,7 @@
 
 <!-- ABOUT ME -->
 ## 🔭 About Me
-- 🌍 Based in the Basque Country, Spain  
+- 🌍 Based in the Basque Country  
 - 💼 Building modular software architectures  
 - 🎯 Currently creating microservices with NestJS, AWS and Serverless  
 - 🚀 Always exploring new technologies and sharing knowledge
