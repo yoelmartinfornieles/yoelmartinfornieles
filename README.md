@@ -21,7 +21,7 @@
 [![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,python,anaconda,graphql,mongodb,dynamodb,mysql,postgres,react,nextjs,babel,html,css,bootstrap,materialui,jest,aws,bash,postman,vscode,git,github,npm,apple,linux,kali&perline=15)](https://github.com/yoelmartinfornieles)
 
 ---
-
+<details> 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 <p align="center">
@@ -31,6 +31,7 @@
 </p>
 
 ---
+</details>
 
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
