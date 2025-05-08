@@ -14,8 +14,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-  
-### Languages and Tools:
+
 <p align="center">
   <!-- JavaScript, TypeScript, Python -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
