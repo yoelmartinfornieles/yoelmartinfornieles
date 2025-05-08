@@ -24,9 +24,7 @@
 
 <!-- CONTRIBUTION SNAKE -->
 ## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/generated/yoelmartinfornieles/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/yoelmartinfornieles/yoelmartinfornieles/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -97,7 +95,7 @@
 
 <summary><h2>🏆 GitHub Trophies</h2></summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=6)](https://github.com/yoelmartinfornieles/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoelmartinfornieles&theme=darkhub&column=9)](https://github.com/yoelmartinfornieles/github-profile-trophy)
 
 ---
 </details>
