@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/main/header_1.png" alt="Welcome" width="200"/>
+  <img src="https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/main/header_1.png" alt="Welcome" width="100%"/>
   <h1>Hi there, I’m Yoel Martin Fornieles! 👋</h1>
   <p>Full-Stack Developer | Passionate about Node.js, TypeScript & NestJS</p>
 </p>
