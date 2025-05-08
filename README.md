@@ -45,7 +45,7 @@
              width="100%" height="auto" />
         <h4 style="margin:8px 0 4px;">Pachanga Tournament</h4>
         <p style="margin:0; font-size:0.9rem; color:#555;">
-          Pachanga Tournament is an international Magic: The Gathering event held in the Canary Islands that spans three days of multi-format competition alongside social activities such as poolside cocktails, professional illustrator signings, and live streaming for a global audience
+          Pachanga Tournament is an international Magic: The Gathering event held in the Canary Islands 
         </p>
       </a>
     </td>
