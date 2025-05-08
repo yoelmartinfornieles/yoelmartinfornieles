@@ -33,27 +33,40 @@
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<div style="display: flex; gap: 1rem; overflow-x: auto; padding: 1rem 0;">
+<div style="display: flex; gap: 1rem; overflow-x: auto; padding: 1rem 0; scroll-behavior: smooth;">
 
   <!-- Card 1 -->
-  <div style="flex: 0 0 300px; background: #1e1e1e; border-radius: 8px; padding: 1rem; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw" alt="Pachanga Tournament" style="width:20%; border-radius:4px;" />
-    <h4 style="margin:0.5rem 0 0.25rem; color:#fff;">Pachanga Tournament</h4>
-    <p style="margin:0; color:#bbb; font-size:0.9rem;">
-      Una mini descripción de tu proyecto A, qué resuelve o tecnologías clave.
-    </p>
-  </div>
+  <a href="https://tu-proyecto-1.com" target="_blank"
+     style="flex: 0 0 300px; background: #1e1e1e; border-radius: 8px; padding: 1rem;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-decoration: none; color: inherit;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
+         alt="Pachanga Tournament"
+         style="width:100%; height:auto; border-radius:4px 4px 0 0;" />
+    <div style="padding: 0.5rem 0;">
+      <h4 style="margin: 0 0 0.25rem; font-size: 1.1rem;">Pachanga Tournament</h4>
+      <p style="margin: 0; font-size: 0.9rem; color:#bbb;">
+        Organiza torneos de pádel con emparejamientos automáticos y clasificación en tiempo real.
+      </p>
+    </div>
+  </a>
 
   <!-- Card 2 -->
-  <div style="flex: 0 0 300px; background: #1e1e1e; border-radius: 8px; padding: 1rem; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk" alt="DBZ Arkanoid" style="width:20%; border-radius:4px;" />
-    <h4 style="margin:0.5rem 0 0.25rem; color:#fff;">DBZ Arkanoid</h4>
-    <p style="margin:0; color:#bbb; font-size:0.9rem;">
-      Una mini descripción de tu proyecto B, qué resuelve o tecnologías clave.
-    </p>
-  </div>
+  <a href="https://tu-proyecto-2.com" target="_blank"
+     style="flex: 0 0 300px; background: #1e1e1e; border-radius: 8px; padding: 1rem;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-decoration: none; color: inherit;">
+    <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
+         alt="DBZ Arkanoid"
+         style="width:100%; height:auto; border-radius:4px 4px 0 0;" />
+    <div style="padding: 0.5rem 0;">
+      <h4 style="margin: 0 0 0.25rem; font-size: 1.1rem;">DBZ Arkanoid</h4>
+      <p style="margin: 0; font-size: 0.9rem; color:#bbb;">
+        Un divertido clon de Arkanoid ambientado en el universo Dragon Ball Z con power-ups únicos.
+      </p>
+    </div>
+  </a>
 
 </div>
+
 
 ---
 
