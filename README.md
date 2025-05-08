@@ -37,75 +37,119 @@
 
 ## 🚀 Featured Projects
 
-<div style="  
-  display: flex;  
-  gap: 1rem;  
-  overflow-x: auto;  
-  padding: 1rem 0;  
-  scroll-snap-type: x mandatory;  
-  -webkit-overflow-scrolling: touch;  
+<div style="
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  padding: 1rem 0;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
 ">
   <!-- Card 1 -->
-  <a href="https://tu-proyecto-1.com" target="_blank"
-     style="  
-       flex: 0 0 320px;  
-       background: #1e1e1e;  
-       border-radius: 12px;  
-       box-shadow: 0 8px 16px rgba(0,0,0,0.3);  
-       overflow: hidden;  
-       text-decoration: none;  
-       color: inherit;  
-       scroll-snap-align: start;  
-       transition: transform .2s;  
-     "  
-     onmouseover="this.style.transform='translateY(-4px)'"  
-     onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
-         alt="Pachanga Tournament"
-         style="  
-           width: 100%;  
-           height: 180px;  
-           object-fit: cover;  
-         " />
+  <a href="https://tu-proyecto-1.com" target="_blank" rel="noopener noreferrer"
+     style="
+       flex: 0 0 320px;
+       background: #ffffff;
+       color: #333;
+       border-radius: 12px;
+       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+       overflow: hidden;
+       text-decoration: none;
+       scroll-snap-align: start;
+       transition: transform .2s, box-shadow .2s;
+     "
+     onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';"
+     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+  >
+    <div style="height:180px; overflow:hidden;">
+      <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
+           alt="Pachanga Tournament"
+           style="
+             width:100%;
+             height:100%;
+             object-fit: cover;
+             object-position: center;
+           " />
+    </div>
     <div style="padding: 1rem;">
-      <h4 style="margin: 0 0 .5rem; font-size: 1.2rem;">Pachanga Tournament</h4>
-      <p style="margin: 0; font-size: .95rem; line-height: 1.4; color: #ccc;">
-        Torneos de pádel con emparejamientos automáticos, rankings y estadísticas en tiempo real.
+      <h4 style="margin:0 0 0.5rem; font-size:1.2rem;">Pachanga Tournament</h4>
+      <p style="margin:0; font-size:0.95rem; line-height:1.4; color:#666;">
+        Organiza torneos de pádel con emparejamientos automáticos, rankings y estadísticas en tiempo real.
       </p>
     </div>
   </a>
 
   <!-- Card 2 -->
-  <a href="https://tu-proyecto-2.com" target="_blank"
-     style="  
-       flex: 0 0 320px;  
-       background: #1e1e1e;  
-       border-radius: 12px;  
-       box-shadow: 0 8px 16px rgba(0,0,0,0.3);  
-       overflow: hidden;  
-       text-decoration: none;  
-       color: inherit;  
-       scroll-snap-align: start;  
-       transition: transform .2s;  
-     "  
-     onmouseover="this.style.transform='translateY(-4px)'"  
-     onmouseout="this.style.transform='translateY(0)'">
-    <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
-         alt="DBZ Arkanoid"
-         style="  
-           width: 100%;  
-           height: 180px;  
-           object-fit: cover;  
-         " />
+  <a href="https://tu-proyecto-2.com" target="_blank" rel="noopener noreferrer"
+     style="
+       flex: 0 0 320px;
+       background: #ffffff;
+       color: #333;
+       border-radius: 12px;
+       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+       overflow: hidden;
+       text-decoration: none;
+       scroll-snap-align: start;
+       transition: transform .2s, box-shadow .2s;
+     "
+     onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';"
+     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+  >
+    <div style="height:180px; overflow:hidden;">
+      <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
+           alt="DBZ Arkanoid"
+           style="
+             width:100%;
+             height:100%;
+             object-fit: cover;
+             object-position: center;
+           " />
+    </div>
     <div style="padding: 1rem;">
-      <h4 style="margin: 0 0 .5rem; font-size: 1.2rem;">DBZ Arkanoid</h4>
-      <p style="margin: 0; font-size: .95rem; line-height: 1.4; color: #ccc;">
-        Un divertido clon de Arkanoid ambientado en el universo Dragon Ball Z, con power-ups y bosses.
+      <h4 style="margin:0 0 0.5rem; font-size:1.2rem;">DBZ Arkanoid</h4>
+      <p style="margin:0; font-size:0.95rem; line-height:1.4; color:#666;">
+        Un divertido clon de Arkanoid ambientado en Dragon Ball Z, con power-ups y bosses únicos.
       </p>
     </div>
   </a>
 
+  <!-- Card 3 -->
+  <a href="https://tu-proyecto-3.com" target="_blank" rel="noopener noreferrer"
+     style="
+       flex: 0 0 320px;
+       background: #ffffff;
+       color: #333;
+       border-radius: 12px;
+       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+       overflow: hidden;
+       text-decoration: none;
+       scroll-snap-align: start;
+       transition: transform .2s, box-shadow .2s;
+     "
+     onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';"
+     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+  >
+    <div style="height:180px; overflow:hidden;">
+      <img src="https://via.placeholder.com/600x400.png?text=Proyecto+3"
+           alt="Proyecto 3"
+           style="
+             width:100%;
+             height:100%;
+             object-fit: cover;
+             object-position: center;
+           " />
+    </div>
+    <div style="padding: 1rem;">
+      <h4 style="margin:0 0 0.5rem; font-size:1.2rem;">Proyecto 3</h4>
+      <p style="margin:0; font-size:0.95rem; line-height:1.4; color:#666;">
+        Breve descripción de tu tercer proyecto, destacando tecnologías y objetivos principales.
+      </p>
+    </div>
+  </a>
+
+  <!-- Más cards -->
 </div>
+
 
 ---
 </details> 
