@@ -23,7 +23,8 @@
 ---
 <details> 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+
+<summary>< <h2>📊 GitHub Stats</h2></summary>
 <p align="center">
   <img src=""https://github-readme-stats.vercel.app/api?username=yoelmartinfornieles&theme=react&show_icons=true&include_all_commits=true"" alt="GitHub Stats" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelmartinfornieles&theme=react&layout=compact" alt="Top Languages" />
