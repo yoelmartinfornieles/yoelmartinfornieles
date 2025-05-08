@@ -31,7 +31,9 @@
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+<details> 
+
+<summary><h2>🚀 Featured Projects</h2></summary>
 
 <div style="display: flex; gap: 1rem; overflow-x: auto; padding: 1rem 0; scroll-behavior: smooth;">
 
@@ -67,8 +69,8 @@
 
 </div>
 
-
 ---
+</details> 
 
 <!-- GITHUB STATS -->
 <details> 
