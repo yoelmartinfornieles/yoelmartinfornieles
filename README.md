@@ -13,9 +13,8 @@
 - 💼 Building modular software architectures  
 - 🎯 Currently creating microservices with NestJS, AWS and Serverless  
 - 🚀 Always exploring new technologies and sharing knowledge
-[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 ---
-
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,python,anaconda,graphql,mongodb,dynamodb,mysql,postgres,react,nextjs,babel,html,css,bootstrap,materialui,jest,aws,bash,postman,vscode,git,github,npm,apple,linux,kali&perline=15)](https://github.com/yoelmartinfornieles)
