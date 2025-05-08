@@ -13,7 +13,7 @@
 - 💼 Building modular software architectures  
 - 🎯 Currently creating microservices with NestJS, AWS and Serverless  
 - 🚀 Always exploring new technologies and sharing knowledge
-
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 ---
 
 <!-- TECH STACK -->
