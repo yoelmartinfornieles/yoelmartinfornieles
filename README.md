@@ -41,7 +41,7 @@
     <td align="center" width="33%">
       <a href="https://pachangaTournament.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
         <div style="width:100%; height:200px; overflow:hidden; display:flex; justify-content:center; align-items:center;">
-          <img src="https://media.licdn.com/dms/image/v2/D4D22AQEl3SK9_y3-Ng/feedshare-shrink_2048_1536/B4DZO9HFYIHMAo-/0/1734044575667?e=1749686400&v=beta&t=Qeo5RG5G5uevIzhAS6Kzw3937dx3nMYzcM2gVtnhznw"
+          <img src="https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/main/pachanga-tournament.jpg"
                alt="Pachanga Tournament"
                style="height:100%; width:auto;" />
         </div>
@@ -55,7 +55,7 @@
     <td align="center" width="33%">
       <a href="https://yoelmartinfornieles.github.io/prj-dbzArkanoid/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
         <div style="width:100%; height:200px; overflow:hidden; display:flex; justify-content:center; align-items:center;">
-          <img src="https://media.licdn.com/dms/image/v2/C4D22AQFBWX3JtbdLxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1632390296482?e=1749686400&v=beta&t=FreyP-00xxmmeQJpuTMlvpN2Hhw3gybifhb-jbj_QFk"
+          <img src="https://github.com/yoelmartinfornieles/yoelmartinfornieles/blob/main/dbz-arkanoid.jpg"
                alt="DBZ Arkanoid"
                style="height:100%; width:auto;" />
         </div>
