@@ -14,7 +14,7 @@
 - 🎯 Currently creating microservices with NestJS, AWS and Serverless  
 - 🚀 Always exploring new technologies and sharing knowledge
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6c46c598-71ff-46ea-9995-aca7fd488212" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6c46c598-71ff-46ea-9995-aca7fd488212" data-share-badge-host="https://www.credly.com"></div>
 
 ---
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white)]()
